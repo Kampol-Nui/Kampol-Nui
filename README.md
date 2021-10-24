@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/กัมพล ไทยปรีชา" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="กัมพล ไทยปรีชา" height="30" width="40" /></a>
-<a href="https://instagram.com/iun_nui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iun_nui" height="30" width="40" /></a>
+<a href="https://fb.com/kampol.nui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kampol.nui" height="30" width="40" /></a>
+<a href="https://instagram.com/iun.nui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iun.nui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
